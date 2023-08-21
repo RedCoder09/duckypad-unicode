@@ -1,0 +1,17 @@
+z1 a
+z2 b
+z3 c
+z4 7
+z5 8
+z6 9
+z7 4
+z8 5
+z9 6
+z10 1
+z11 2
+z12 3
+z13 alt
+z14 0
+z15 +
+BG_COLOR 160 160 160
+KEYDOWN_COLOR 160 160 160
